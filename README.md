@@ -18,6 +18,7 @@ Apache / Nginx
 Samba
 UFW Firewall
 Bash Scripting
+
 🌐 Features
 1. Web Server
 Configured multiple virtual hosts
@@ -34,6 +35,7 @@ Allowed only necessary ports (22, 80, 443)
 5. Automation
 Created a backup script using Bash
 Automated tasks using cron jobs
+
 🌍 Networking
 Worked with Linux network interfaces (default configuration)
 Verified IP addressing and connectivity
